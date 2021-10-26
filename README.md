@@ -5,6 +5,8 @@
 
 pip install muggle_ocr
 
+python3 Captchafor189.py
+
 ![yzm](https://github.com/cellanu/Captcha-Recognition/blob/main/captcha.png)
 
 ![result](https://github.com/cellanu/Captcha-Recognition/blob/main/result.jpg)
